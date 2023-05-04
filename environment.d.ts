@@ -3,6 +3,7 @@ declare global {
       interface ProcessEnv {
         PRIVATE_KEY: string;
         NFT_ADDRESS: string;
+        NFT1155_ADDRESS: string;
       }
     }
   }
